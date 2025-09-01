@@ -1,0 +1,2 @@
+# -pyapi-diplom-basic
+Курсовая
